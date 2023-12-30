@@ -1,0 +1,13 @@
+I was introduced to RPG Maker XP ("RMXP" for short) ten years ago when some
+friends and I thought it would be fun to make a 16-bit-era JRPG. Our year's
+worth of efforts helped me make many meaningful and lasting friendships and
+sparked in me an ongoing interest in game design. I carry that interest with me
+today and it continues to influence the way I approach creative endeavors like
+my recent thesis work. 
+
+It's a little strange to say, but RMXP and the community surrounding it have
+made a profound impact on me. This musical theme is thus a tribute. It is an
+expansion/variation on one of the prepackaged MIDI background music files that
+shipped with the engine, 035-Dungeon01.mid
+
+quietly-turning May 4, 2015
